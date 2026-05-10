@@ -1,2 +1,5 @@
 # online-spirituality
-This repo is for online spirituality project.
+
+In religion and theology studies, spirituality has garnered significant research attention for the reason that it not only transcends culture but offers unique experience to each individual. However, social scientists often rely on limited datasets, which are basically unavailable online. In this study, we collaborated with social scientists to develop a high-quality multimedia multi-modal datasets, \textbf{SACRED}, in which the faithfulness of classification is guaranteed. Using \textbf{SACRED}, we evaluated the performance of 13 popular LLMs as well as traditional rule-based and fine-tuned approaches. The result suggests DeepSeek-V3 model performs well in classifying such abstract concepts (i.e., 79.19\% accuracy in the Quora test set), and the GPT-4o-mini model surpassed the other models in the vision tasks (63.99\% F1 score). Purportedly, this is the first annotated multi-modal dataset from online spirituality communication. Our study also found a new type of connectedness which is valuable for communication science studies.
+
+<img width="4112" height="2372" alt="workflow diagram" src="https://github.com/user-attachments/assets/1768288a-eb4b-4e02-acdf-5deb044a49eb" />
